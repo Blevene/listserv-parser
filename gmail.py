@@ -4,6 +4,7 @@ import imaplib
 import email
 import re
 
+#Global Variables n' Such
 parser = SafeConfigParser()
 parser.read('.config.txt')
 
